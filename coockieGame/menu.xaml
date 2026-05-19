@@ -7,8 +7,26 @@
         mc:Ignorable="d"
         Title="menu" Height="450" Width="800">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="199,90,0,0" VerticalAlignment="Top" Height="34" Width="54"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="199,183,0,0" VerticalAlignment="Top" Height="26" Width="67"/>
+        <Button Content="Koupit" HorizontalAlignment="Left" Margin="689,78,0,0" VerticalAlignment="Top" Height="34" Width="54"/>
+        <Button Content="Koupit" HorizontalAlignment="Left" Margin="689,149,0,0" VerticalAlignment="Top" Height="32" Width="54" RenderTransformOrigin="0.51,2.715"/>
+        <Button Content="Koupit" HorizontalAlignment="Left" Margin="689,224,0,0" VerticalAlignment="Top" Height="32" Width="54" RenderTransformOrigin="0.51,2.715"/>
+        <Button Content="Koupit" HorizontalAlignment="Left" Margin="689,292,0,0" VerticalAlignment="Top" Height="32" Width="54" RenderTransformOrigin="0.51,2.715"/>
+        <Button Content="Koupit" HorizontalAlignment="Left" Margin="689,361,0,0" VerticalAlignment="Top" Height="32" Width="54" RenderTransformOrigin="0.51,2.715"/>
+        <Label Content="Zvyšuje počet sušenek za kliknutí o 1." HorizontalAlignment="Left" Margin="72,83,0,0" VerticalAlignment="Top" Height="34" Width="214"/>
+        <Label Content="Zvyšuje počet sušenek za kliknutí o 5." HorizontalAlignment="Left" Margin="72,153,0,0" VerticalAlignment="Top" Height="34" Width="317"/>
+        <Label Content="Přidá automatickou produkci, 1 sušenku za sekundu." HorizontalAlignment="Left" Margin="72,227,0,0" VerticalAlignment="Top" Height="34" Width="287"/>
+        <Label Content="Přidá automatickou produkci, 5 sušenek za sekundu." HorizontalAlignment="Left" Margin="72,301,0,0" VerticalAlignment="Top" Height="34" Width="287"/>
+        <Label Content="Přidá automatickou produkci, 25 sušenek za sekundu." HorizontalAlignment="Left" Margin="72,365,0,0" VerticalAlignment="Top" Height="34" Width="295"/>
+        <Label Content="Lepší kurzor" HorizontalAlignment="Left" Margin="72,52,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <Label Content="Dvojité kliknutí" HorizontalAlignment="Left" Margin="72,122,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <Label Content="Babička pekařka" HorizontalAlignment="Left" Margin="72,197,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <Label Content="Malá pekárna" HorizontalAlignment="Left" Margin="72,270,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <Label Content="Továrna na sušenky" HorizontalAlignment="Left" Margin="72,329,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <Label Content="10 sušenek" HorizontalAlignment="Left" Margin="583,86,0,0" VerticalAlignment="Top"/>
+        <Label Content="50 sušenek" HorizontalAlignment="Left" Margin="583,153,0,0" VerticalAlignment="Top"/>
+        <Label Content="100 sušenek" HorizontalAlignment="Left" Margin="580,230,0,0" VerticalAlignment="Top"/>
+        <Label Content="500 sušenek" HorizontalAlignment="Left" Margin="580,300,0,0" VerticalAlignment="Top"/>
+        <Label Content="2500 sušenek" HorizontalAlignment="Left" Margin="580,364,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
